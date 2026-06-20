@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FileScanner</string>
+    <string name="start_scan">بدء البحث</string>
+    <string name="cancel_scan">إلغاء البحث</string>
+    <string name="scanning_status">جاري الفحص والمسح...</string>
+    <string name="scan_completed">اكتمل الفحص بنجاح</string>
+    <string name="scan_cancelled">تم إلغاء الفحص بواسطة المستخدم</string>
+    <string name="scan_idle">جاهز للبدء. اضغط على "بدء البحث" لمسح شامل لنظام الملفات.</string>
+    <string name="no_files_found">لم يتم العثور على أي ملفات تطابق الشروط.</string>
+    <string name="results_count">تم العثور على %1$d ملف تطابق المعايير</string>
+    <string name="scanned_files_count">تم فحص %1$d ملف</string>
+    <string name="path_copied">تم نسخ المسار للملف بنجاح!</string>
+    <string name="export_success">تم حفظ ملف CSV في مجلد التنزيلات (Downloads): %1$s</string>
+    <string name="export_failed">فشل تصدير ملف CSV</string>
+    <string name="perm_title">مطلوب صلاحية الوصول للملفات</string>
+    <string name="perm_desc">يحتاج التطبيق للوصول إلى وحدة التخزين لمسح وفحص الملفات حسب الامتدادات والكلمات المفتاحية المطلوبة.</string>
+    <string name="perm_button">منح الصلاحية</string>
+    <string name="export_button">تصدير النتائج (CSV)</string>
+    <string name="filter_ext_label">الامتدادات النشطة</string>
+    <string name="filter_kw_label">الكلمات المفتاحية النشطة</string>
+    <string name="file_path_title">المسار الكامل</string>
+    <string name="file_size_title">الحجم</string>
+    <string name="confirm_exit">اضغط مرة أخرى للخروج</string>
+</resources>

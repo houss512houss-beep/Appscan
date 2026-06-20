@@ -1,0 +1,6 @@
+{
+  "name": "FileScanner",
+  "description": "A scanning utility to inspect your device storage for specific file types and sensitive keywords, with detailed progress reporting and CSV export. Fully localized in Arabic with a modern Material 3 layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

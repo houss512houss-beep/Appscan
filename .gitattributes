@@ -1,0 +1,7 @@
+# Force binary files to not have LF/CRLF translations
+*.jar binary
+*.png binary
+*.webp binary
+*.jpg binary
+*.jpeg binary
+*.keystore binary
